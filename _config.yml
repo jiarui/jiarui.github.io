@@ -1,0 +1,12 @@
+# Site settings
+title: C8H11NO2
+email: jr.coaxmetal@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  C8H11NO2 = Dopamine
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jiarui
+github_username:  jiarui
+
+# Build settings
+markdown: kramdown
